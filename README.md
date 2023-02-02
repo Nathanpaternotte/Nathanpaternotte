@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AM-Detailing](https://am-detailing.com)
 
-- 👨‍💻 All of my projects are available at [agence-am.be](agence-am.be)
+- 👨‍💻 All of my projects are available at [agence-am.be](https://agence-am.be)
 
 - 📫 How to reach me **paternottenathan@gmail.com**
 
